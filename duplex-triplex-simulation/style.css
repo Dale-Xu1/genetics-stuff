@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sliders {
+  width: 50%;
+  padding: 8px;
+  margin-top: 32px;
+}
+
+#numbers-to-generate {
+  margin-bottom: 16px;
+}
+
+.slider span {
+  margin-right: 8px;
+}
+
+.charts {
+  display: flex;
+}
+
+.chart-container {
+  width: 600px;
+}
